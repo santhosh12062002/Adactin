@@ -1,3 +1,3 @@
 # Adactin
 Automation Code in selenium for Adatin Hotel Booking site
-adactin
+Using Tools & methods: Java , Selnium, Pom, BaseClass
